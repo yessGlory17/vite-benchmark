@@ -1,4 +1,4 @@
-# Why Slow Vite
+# Bu Vite Neden Yavas?
 
 ## Kurulum
 
